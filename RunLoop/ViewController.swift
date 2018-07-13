@@ -12,7 +12,7 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
 
-        startTimer__()
+        startTimer___()
     }
 
     private func basicRunLoopFunc() {
